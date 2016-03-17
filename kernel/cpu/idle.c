@@ -1,4 +1,4 @@
-/*
+/**
  * Generic entry point for the idle threads
  */
 #include <linux/sched.h>
